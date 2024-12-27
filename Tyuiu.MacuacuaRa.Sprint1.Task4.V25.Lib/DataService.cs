@@ -5,7 +5,7 @@ namespace Tyuiu.MacuacuaRa.Sprint1.Task4.V25.Lib
     {
         public double Calculate(double a)
         {
-            var res = (1 - Math.Cos(a)) / (Math.Pow(Math.Sin(a), 2));
+            var res = Math.Round((1 - Math.Cos(a)) / (Math.Pow(Math.Sin(a), 2)), 3);
             return res;
         }
     }
