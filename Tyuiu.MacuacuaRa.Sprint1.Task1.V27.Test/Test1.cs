@@ -1,5 +1,5 @@
-﻿using Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Lib;
-namespace Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Test
+﻿using Tyuiu.MacuacuaRa.Sprint1.Task1.V27.Lib;
+namespace Tyuiu.MacuacuaRa.Sprint1.Task1.V27.Test
 {
     [TestClass]
     public sealed class Test1

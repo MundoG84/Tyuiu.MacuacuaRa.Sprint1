@@ -1,11 +1,11 @@
-﻿using Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Lib;
-
-namespace Tyuiu.MacuacuaRa.Sprint1.Task1.V10
+﻿using Tyuiu.MacuacuaRa.Sprint1.Task1.V27.Lib;
+namespace Tyuiu.MacuacuaRa.Sprint1.Task1.V27
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
             DataService ds = new DataService();
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
