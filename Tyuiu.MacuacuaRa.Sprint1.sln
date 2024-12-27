@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{DDAB4735
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MacuacuaRa.Sprint1.Task1.V10", "Tyuiu.MacuacuaRa.Sprint1.Task1.V10\Tyuiu.MacuacuaRa.Sprint1.Task1.V10.csproj", "{D605C592-39C9-49D7-BD8C-A3E1DA7D597A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Lib", "Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Lib\Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Lib.csproj", "{0C56C42B-B1F2-4ECB-9B47-C42777A639EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MacuacuaRa.Sprint1.Task1.V27.Lib", "Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Lib\Tyuiu.MacuacuaRa.Sprint1.Task1.V27.Lib.csproj", "{0C56C42B-B1F2-4ECB-9B47-C42777A639EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Test", "Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Test\Tyuiu.MacuacuaRa.Sprint1.Task1.V10.Test.csproj", "{125923C7-1B02-4E8D-9050-A2D535DFDE5F}"
 EndProject
